@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Nhẫn",
+        "slug": "nhan",
+        "description": "Bộ sưu tập nhẫn Swarovski tinh tế, lấp lánh"
+    },
+    {
+        "name": "Dây Chuyền",
+        "slug": "day-chuyen",
+        "description": "Dây chuyền Swarovski sang trọng, quyến rũ"
+    },
+    {
+        "name": "Lắc Tay",
+        "slug": "lac-tay",
+        "description": "Lắc tay Swarovski thanh lịch, nổi bật"
+    },
+    {
+        "name": "Khuyên Tai",
+        "slug": "khuyen-tai",
+        "description": "Khuyên tai Swarovski lung linh, quyến rũ"
+    }
+]

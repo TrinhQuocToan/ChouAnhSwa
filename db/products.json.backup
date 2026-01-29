@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Dây Chuyền Swarovski Constella Rose Gold",
+    "description": "Dây chuyền Constella với tone màu vàng hồng sang trọng, đính pha lê Swarovski lấp lánh. Thiết kế hiện đại, thanh lịch, phù hợp cho mọi dịp.",
+    "price": 2290000,
+    "categorySlug": "day-chuyen",
+    "images": [
+      "/db/Dây Chuyền/Constella Rose Gold - 2290k/Dc Constella.jpg"
+    ],
+    "stock": 10,
+    "material": "Vàng hồng & Pha lê Swarovski",
+    "color": "Vàng hồng",
+    "featured": true
+  },
+  {
+    "name": "Dây Chuyền Swarovski Dancing Swan - Xanh Trắng",
+    "description": "Dây chuyền Dancing Swan với thiết kế thiên nga thanh lịch, đính pha lê xanh trắng lung linh. Biểu tượng của sự duyên dáng và quý phái.",
+    "price": 2690000,
+    "categorySlug": "day-chuyen",
+    "images": [
+      "/db/Dây Chuyền/Dancing Swan/Xanh trắng - 2690/IMG_0022.JPG",
+      "/db/Dây Chuyền/Dancing Swan/Xanh trắng - 2690/IMG_0495.JPG",
+      "/db/Dây Chuyền/Dancing Swan/Xanh trắng - 2690/IMG_0497.JPG",
+      "/db/Dây Chuyền/Dancing Swan/Xanh trắng - 2690/IMG_0503.JPG",
+      "/db/Dây Chuyền/Dancing Swan/Xanh trắng - 2690/IMG_0504.JPG"
+    ],
+    "stock": 8,
+    "material": "Rhodium & Pha lê Swarovski",
+    "color": "Xanh trắng",
+    "featured": true
+  },
+  {
+    "name": "Dây Chuyền Swarovski Dancing Swan - Đỏ",
+    "description": "Dây chuyền Dancing Swan phiên bản đỏ rực rỡ, mang đến vẻ đẹp quyến rũ và nổi bật. Thiết kế thiên nga độc đáo với pha lê đỏ sang trọng.",
+    "price": 3050000,
+    "categorySlug": "day-chuyen",
+    "images": [
+      "/db/Dây Chuyền/Dancing Swan/Đỏ - 3050k/IMG_0505.WEBP",
+      "/db/Dây Chuyền/Dancing Swan/Đỏ - 3050k/IMG_0694.JPG"
+    ],
+    "stock": 5,
+    "material": "Rhodium & Pha lê Swarovski",
+    "color": "Đỏ",
+    "featured": true
+  },
+  {
+    "name": "Dây Chuyền Swarovski Dazzling Swan",
+    "description": "Dây chuyền Dazzling Swan với thiết kế thiên nga lấp lánh, đính pha lê Swarovski cao cấp. Mẫu mã tinh tế, sang trọng.",
+    "price": 1999000,
+    "categorySlug": "day-chuyen",
+    "images": [
+      "/db/Dây Chuyền/Dazzling Swan 1999/IMG_0077.JPG"
+    ],
+    "stock": 12,
+    "material": "Rhodium & Pha lê Swarovski",
+    "color": "Bạc",
+    "featured": false
+  }
+]

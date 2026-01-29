@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Dây Chuyền Swarovski Constella Rose Gold",
+    "description": "Dây chuyền Constella với tone màu vàng hồng sang trọng, đính pha lê Swarovski lấp lánh. Thiết kế hiện đại, thanh lịch, phù hợp cho mọi dịp.",
+    "price": 2290000,
+    "categorySlug": "day-chuyen",
+    "images": [
+      "https://res.cloudinary.com/dk4kuf5py/image/upload/v1769704140/swarovski-jewelry/d%C3%A2y-chuy%E1%BB%81n/constella-rose-gold---2290k/dc-constella.jpg"
+    ],
+    "stock": 10,
+    "material": "Vàng hồng & Pha lê Swarovski",
+    "color": "Vàng hồng",
+    "featured": true
+  },
+  {
+    "name": "Dây Chuyền Swarovski Dancing Swan - Xanh Trắng",
+    "description": "Dây chuyền Dancing Swan với thiết kế thiên nga thanh lịch, đính pha lê xanh trắng lung linh. Biểu tượng của sự duyên dáng và quý phái.",
+    "price": 2690000,
+    "categorySlug": "day-chuyen",
+    "images": [
+      "https://res.cloudinary.com/dk4kuf5py/image/upload/v1769704142/swarovski-jewelry/d%C3%A2y-chuy%E1%BB%81n/dancing-swan/xanh-tr%E1%BA%AFng---2690/img_0022.jpg",
+      "https://res.cloudinary.com/dk4kuf5py/image/upload/v1769704143/swarovski-jewelry/d%C3%A2y-chuy%E1%BB%81n/dancing-swan/xanh-tr%E1%BA%AFng---2690/img_0495.jpg",
+      "https://res.cloudinary.com/dk4kuf5py/image/upload/v1769704145/swarovski-jewelry/d%C3%A2y-chuy%E1%BB%81n/dancing-swan/xanh-tr%E1%BA%AFng---2690/img_0497.jpg",
+      "https://res.cloudinary.com/dk4kuf5py/image/upload/v1769704147/swarovski-jewelry/d%C3%A2y-chuy%E1%BB%81n/dancing-swan/xanh-tr%E1%BA%AFng---2690/img_0503.jpg",
+      "https://res.cloudinary.com/dk4kuf5py/image/upload/v1769704149/swarovski-jewelry/d%C3%A2y-chuy%E1%BB%81n/dancing-swan/xanh-tr%E1%BA%AFng---2690/img_0504.jpg"
+    ],
+    "stock": 8,
+    "material": "Rhodium & Pha lê Swarovski",
+    "color": "Xanh trắng",
+    "featured": true
+  },
+  {
+    "name": "Dây Chuyền Swarovski Dancing Swan - Đỏ",
+    "description": "Dây chuyền Dancing Swan phiên bản đỏ rực rỡ, mang đến vẻ đẹp quyến rũ và nổi bật. Thiết kế thiên nga độc đáo với pha lê đỏ sang trọng.",
+    "price": 3050000,
+    "categorySlug": "day-chuyen",
+    "images": [
+      "https://res.cloudinary.com/dk4kuf5py/image/upload/v1769704151/swarovski-jewelry/d%C3%A2y-chuy%E1%BB%81n/dancing-swan/%C4%91%E1%BB%8F---3050k/img_0505.webp.webp",
+      "https://res.cloudinary.com/dk4kuf5py/image/upload/v1769704153/swarovski-jewelry/d%C3%A2y-chuy%E1%BB%81n/dancing-swan/%C4%91%E1%BB%8F---3050k/img_0694.jpg"
+    ],
+    "stock": 5,
+    "material": "Rhodium & Pha lê Swarovski",
+    "color": "Đỏ",
+    "featured": true
+  },
+  {
+    "name": "Dây Chuyền Swarovski Dazzling Swan",
+    "description": "Dây chuyền Dazzling Swan với thiết kế thiên nga lấp lánh, đính pha lê Swarovski cao cấp. Mẫu mã tinh tế, sang trọng.",
+    "price": 1999000,
+    "categorySlug": "day-chuyen",
+    "images": [
+      "https://res.cloudinary.com/dk4kuf5py/image/upload/v1769704154/swarovski-jewelry/d%C3%A2y-chuy%E1%BB%81n/dazzling-swan-1999/img_0077.jpg"
+    ],
+    "stock": 12,
+    "material": "Rhodium & Pha lê Swarovski",
+    "color": "Bạc",
+    "featured": false
+  }
+]
